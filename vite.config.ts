@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Student_Focus_Flow/',
+  base: '/STUDENT_FOCUS_FLOW/',
   plugins: [react(), tailwindcss()],
 })
